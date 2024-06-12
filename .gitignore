@@ -1,32 +1,32 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/sistema_recomendacao/node_modules
-/sistema_recomendacao/.pnp
-/sistema_recomendacao/.pnp.js
+/recomendation_system/node_modules
+/recomendation_system/.pnp
+/recomendation_system/.pnp.js
 
 # python cache
-/sistema_recomendacao/API/__pycache__
+/recomendation_system/API/__pycache__
 
 # model
-/sistema_recomendacao/API/model.pth
+/recomendation_system/API/model.pth
 
 # images:
-/sistema_recomendacao/public/images
+/recomendation_system/public/images
 
 # testing
-/sistema_recomendacao/coverage
+/recomendation_system/coverage
 
 # production
-/sistema_recomendacao/build
+/recomendation_system/build
 
 # misc
-/sistema_recomendacao/.DS_Store
-/sistema_recomendacao/.env.local
-/sistema_recomendacao/.env.development.local
-/sistema_recomendacao/.env.test.local
-/sistema_recomendacao/.env.production.local
+/recomendation_system/.DS_Store
+/recomendation_system/.env.local
+/recomendation_system/.env.development.local
+/recomendation_system/.env.test.local
+/recomendation_system/.env.production.local
 
-/sistema_recomendacao/npm-debug.log*
-/sistema_recomendacao/yarn-debug.log*
-/sistema_recomendacao/yarn-error.log*
+/recomendation_system/npm-debug.log*
+/recomendation_system/yarn-debug.log*
+/recomendation_system/yarn-error.log*
